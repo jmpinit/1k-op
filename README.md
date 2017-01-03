@@ -1,6 +1,6 @@
 # 1K-OP
 
-It wants to be a little device that you pull out of your pocket to write little audio-visual demos with. A toy and a talisman, I want to embody in it a little bit of the deep joy and obsession that draws me to computers. 
+A little programmable computer-toy for your pocket. I hope that it contains a little bit of the deep joy and obsession that I have for computers. 
 
 The hardware provides a little display and speaker for output, and 8 buttons for input. 
 
