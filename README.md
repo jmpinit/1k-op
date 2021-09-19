@@ -1,5 +1,7 @@
 # 1K-OP
 
+![](docs/images/1k-op_render.png)
+
 A little programmable computer-toy for your pocket. I hope that it contains a little bit of the deep joy and obsession that I have for computers. 
 
 The hardware provides a little display and speaker for output, and 8 buttons for input. 
